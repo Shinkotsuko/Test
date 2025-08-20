@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Shift87375</string>
+    <string name="SpisokPolzovatelei">Список пользователей</string>
+    <string name="surname">surname</string>
+    <string name="name">name</string>
+    <string name="city">city</string>
+    <string name="country">country</string>
+    <string name="telephone">телефон:</string>
+    <string name="number">number</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="countrytext">страна:</string>
+    <string name="strittext">город и страна:</string>
+    <string name="pochtatext">почта:</string>
+    <string name="textemail">email</string>
+    <string name="textpass">пароль:</string>
+</resources>
